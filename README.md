@@ -9,7 +9,7 @@ You can use Image Analysis through a client library SDK or by calling the REST A
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-image-analysis?tabs=4-0
 
 ## Python demo notebook
-<a href="https://github.com/retkowsky/dense_captions_Azure_Computer_Vision_4/blob/main/Image%20Analysis%20V4.0%20Captioning%20and%20Dense%20Captioning%20.ipynb">Python demo notebook</a>
+<a href="https://seretkow8.westeurope.instances.azureml.ms/notebooks/Users/seretkow/florence/Azure%20CV4/Image%20Analysis%20V4.0.ipynb">Python demo notebook</a>
 
 ## Results
 <img src="res.jpg">
