@@ -11,7 +11,7 @@ You can use Image Analysis through a client library SDK or by calling the REST A
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-image-analysis?tabs=4-0
 
 ## Python demo notebook
-<a href="https://github.com/retkowsky/removing_background_azure_computer_vision_4/blob/main/Azure%20CV4/Image%20Analysis%20V4.0.ipynb.ipynb">Python demo notebook</a>
+<a href="https://github.com/retkowsky/Image-Analysis-with-Azure-Computer-Vision-4.0/blob/main/Image%20Analysis%20V4.0.ipynb">Python demo notebook</a>
 
 ## Results
 <img src="res.jpg">
