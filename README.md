@@ -1,6 +1,8 @@
 #  Image Analysis V4.0
 
-The Computer Vision Image Analysis service can extract a wide variety of visual features from your images. For example, it can determine whether an image contains adult content, find specific brands or objects, or find human faces.
+The Computer Vision Image Analysis service 4.0 can extract a wide variety of visual features from your images. For example, it can determine whether an image contains adult content, find specific brands or objects, or find human faces.
+
+**Available features = tags, objects, caption, read, smartCrops, denseCaptions, people**
 
 The latest version of Image Analysis, 4.0, which is now in public preview, has new features like synchronous OCR and people detection. We recommend you use this version going forward.
 
