@@ -11,4 +11,7 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overv
 ## Python demo notebook
 <a href="https://github.com/retkowsky/dense_captions_Azure_Computer_Vision_4/blob/main/Image%20Analysis%20V4.0%20Captioning%20and%20Dense%20Captioning%20.ipynb">Python demo notebook</a>
 
+## Results
+<img src="res.jpg">
+
 14-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
